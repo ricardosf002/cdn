@@ -1,4 +1,4 @@
-const urlBase = "https://href.li/?https://rateioninja.info/area-do-aluno/cursos/?wpexp_sysead_download=true&conteudo_id=21257&conteudo_id_google_drive=";
+const urlBase = "https://href.li/?https://rateioturbo.com/area-do-aluno/cursos/?wpexp_sysead_download=true&conteudo_id=21257&conteudo_id_google_drive=";
 
 function Geeks() {
   table = document.getElementById("tabela");
